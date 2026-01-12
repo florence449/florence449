@@ -1,5 +1,6 @@
-## Hi there 👋
+## 안녕하세요! 저는 데이터 분석가 김인표입니다. 👋
 
+저는 Python과 R을 통해 세상을 탐구하는 분석가가 되기 위해 공부하고 있습니다.
 <!--
 **florence449/florence449** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
